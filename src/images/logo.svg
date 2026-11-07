@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 70" width="380" height="70">
+  <!-- ICONA: Cerchio con ramoscello d'olivo e forchetta stilizzata -->
+  <g transform="translate(10, 6)">
+    <!-- Cerchio esterno elegante -->
+    <circle cx="29" cy="29" r="26" fill="none" stroke="#2D5A27" stroke-width="1.8" />
+    <circle cx="29" cy="29" r="22" fill="none" stroke="#C5A059" stroke-width="1" stroke-dasharray="2 3" />
+    
+    <!-- Forchetta stilizzata (dorata) -->
+    <path d="M 25 15 L 25 25 M 22 15 L 22 22 C 22 25 28 25 28 22 L 28 15 M 25 25 L 25 43" 
+          fill="none" stroke="#C5A059" stroke-width="2" stroke-linecap="round" />
+    
+    <!-- Foglia/Ramoscello d'olivo (verde) -->
+    <path d="M 27 34 Q 38 31 35 21 Q 26 25 27 34 Z" fill="#2D5A27" />
+    <path d="M 29 27 Q 41 23 37 13 Q 28 18 29 27 Z" fill="#2D5A27" opacity="0.8" />
+  </g>
+
+  <!-- TESTO: LA TAVOLA -->
+  <text x="82" y="35" 
+        font-family="'Playfair Display', 'Georgia', serif" 
+        font-size="24" 
+        font-weight="700" 
+        letter-spacing="3" 
+        fill="#1C1C1C">
+    LA TAVOLA
+  </text>
+
+  <!-- Linea divisoria oro -->
+  <line x1="83" y1="41" x2="310" y2="41" stroke="#C5A059" stroke-width="1.2" />
+
+  <!-- TESTO: ITALIANA -->
+  <text x="83" y="55" 
+        font-family="'Montserrat', 'Arial', sans-serif" 
+        font-size="11" 
+        font-weight="600" 
+        letter-spacing="6" 
+        fill="#2D5A27">
+    ITALIANA
+  </text>
+  
+  <text x="210" y="55" 
+        font-family="'Montserrat', 'Arial', sans-serif" 
+        font-size="9" 
+        font-weight="400" 
+        letter-spacing="2" 
+        fill="#777777">
+    • RESTAURANT
+  </text>
+</svg>
